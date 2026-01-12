@@ -11,8 +11,6 @@
 
 1. **Install all dependencies**
    ```bash
-   cd "c:\Users\LENOVO\OneDrive\Desktop\jobs"
-   npm install
    cd backend
    npm install
    cd ../frontend
